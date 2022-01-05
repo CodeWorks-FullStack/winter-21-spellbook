@@ -14101,4 +14101,9 @@ main {
   flex-grow: 1;
 }
 
+#api-spells {
+  max-height: 90vh;
+  overflow-y: scroll;
+}
+
 /*# sourceMappingURL=main.css.map */
